@@ -4,13 +4,18 @@
 <h4>Quick Links</h4>
 
 <p>
-<a href="https://haul-e.com" target="_blank" rel="no-referrer" style="color: inherit; text-decoration: none;">
-<img src="https://github.com/haul-e/.github/blob/master/profile/assets/responsive.gif" width="25px" />
+<span>
+<img src="https://github.com/haul-e/.github/blob/master/profile/assets/responsive.gif" width="40px" />
+<a href="https://haul-e.com" target="_blank" rel="no-referrer">
 Primary website
 </a>
+</span>
 <br />
+
+<span>
+<img src="https://github.com/haul-e/.github/blob/master/profile/assets/pencil.gif" width="40px" />
 <a href="https://docs.haul-e.com" target="_blank" rel="no-referrer" style="color: inherit; text-decoration: none;">
-<img src="https://github.com/haul-e/.github/blob/master/profile/assets/pencil.gif" width="25px" />
 API documentation
 </a>
+</span>
 </p>
