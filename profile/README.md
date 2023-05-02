@@ -5,7 +5,7 @@
 
 <p>
 <span>
-<img src="https://github.com/haul-e/.github/blob/master/profile/assets/responsive.gif" width="40px" />
+<img src="https://github.com/haul-e/.github/blob/master/profile/assets/website.gif" width="40px" />
 <a href="https://haul-e.com">
 Primary website
 </a>
@@ -14,7 +14,7 @@ Primary website
 <br />
 
 <span>
-<img src="https://github.com/haul-e/.github/blob/master/profile/assets/pencil.gif" width="40px" />
+<img src="https://github.com/haul-e/.github/blob/master/profile/assets/documentation.gif" width="40px" />
 <a href="https://docs.haul-e.com">
 API documentation
 </a>
